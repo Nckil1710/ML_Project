@@ -47,6 +47,3 @@ AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com ##(uri
 ECR_REPOSITORY_NAME = app-name ##(anything you like)
 
 
-Deployed in AWS
-by E Nikhileswar Reddy
-
