@@ -26,8 +26,10 @@ newgrp docker
 
 Use the help of Git hub in actions and runners setup for an linux device of ec2 instance and follow the steps
 after this you can just use 
-these to run the runner everytime and make it listen to github updates 
-/config.sh ## with your url 
+these to run the runner everytime and make it listen to github updates .
+
+./config.sh ## with your url 
+
 ./run.sh
 
 
